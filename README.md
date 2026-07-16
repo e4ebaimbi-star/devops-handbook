@@ -14,3 +14,4 @@ Updating weekly as I go from terminal → cloud.
 
 Follow the journey. PRs/tips welcome.
 
+linux commands
