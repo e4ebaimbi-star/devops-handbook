@@ -1,4 +1,8 @@
-devops-handbook has been updated on main branch
+ HEAD
+devops-handbook: merged version from main and fix
+
+devops-handbook updated on fix branch
+fix/readme-update
 My public notes while learning DevOps from scratch.
 
 ## Current Focus
