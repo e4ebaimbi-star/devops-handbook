@@ -1,4 +1,4 @@
-devops-handbook has been updated on fix branch
+devops-handbook updated on fix branch
 My public notes while learning DevOps from scratch.
 
 ## Current Focus
